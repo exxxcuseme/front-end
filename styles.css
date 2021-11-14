@@ -104,6 +104,7 @@ p {
     background: linear-gradient(270deg, #F8F8F8 16.84%, rgba(248, 248, 248, 0.0001) 100%);
   }
   .main-navigation a {
+    cursor: pointer;
     flex-shrink: 0;
     padding: 8px 15px;
     background-color: inherit;
@@ -242,6 +243,7 @@ p {
     background: linear-gradient(270deg, #F8F8F8 16.84%, rgba(248, 248, 248, 0.0001) 100%);
   }
   .main-navigation a {
+    cursor: pointer;
     flex-shrink: 0;
     padding: 8px 15px;
     background-color: inherit;
