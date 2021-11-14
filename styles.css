@@ -352,6 +352,7 @@ p {
     flex-wrap: wrap;
   }
   .main-navigation a {
+    cursor: pointer;
     flex-shrink: 0;
     padding: 8px 19px;
     background-color: inherit;
